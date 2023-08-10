@@ -1,1 +1,2 @@
 Esto se crea para poder aprender hacer git pull
+este es una segunda linea agregada
